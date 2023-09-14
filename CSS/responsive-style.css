@@ -3,7 +3,11 @@
 /* <!--===============
 Responsive Design===
 ==============--> */
-
+@media (max-width:2560px) {
+    .navigation-wrap .navbar-brand img{
+        height:4.8125rem;
+    }
+}
 
 @media (max-width:1024px) {
 
